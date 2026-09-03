@@ -16,6 +16,6 @@ The kinks aren't fully worked out yet, so the code stays private until release.
 Initial release: **v1.0.0 Daedalus**.
 
 ### Repo Lists
-Just one for now, but will grow soon.
+Every collection I create will be accessible here.
 
- * Check out my list of Game Engine repositories. I have 50+ engines in there found right here on GH.
+[![View my Game Engine List](https://img.shields.io/badge/View%20my-Game%20Engine%20List-2ea44f?style=for-the-badge&logo=github)](https://github.com/stars/NolanLT/lists/game-engines)
