@@ -1,7 +1,6 @@
 ![](banner.svg)
 
 # About Me
-
 After learning vanilla coding, I wanted to do more, so I picked up languages like Rust and C#. Still pretty new to all of this.
 
 Quite a bit of my work lives in private repositories, so I can't showcase most of it here. One exception is coming soon:
@@ -15,3 +14,8 @@ LowArc uses *modules* to act as the framework for your code, so you can code how
 
 The kinks aren't fully worked out yet, so the code stays private until release.  
 Initial release: **v1.0.0 Daedalus**.
+
+### Repo Lists
+Just one for now, but will grow soon.
+
+ * Check out my list of Game Engine repositories. I have 50+ engines in there found right here on GH.
