@@ -6,7 +6,7 @@ After learning vanilla coding, I wanted to do more, so I picked up languages lik
 ## Repo Spotlights
 Quite a bit of my work lives in private repositories, so I can't showcase most of it here.
 
-### <img src="icons/lowarc.svg" height="22" align="top"> LowArc Studio
+### <img src="icons/lowarc.svg" height="30" align="top"> LowArc Studio
 ![status](https://img.shields.io/badge/status-unreleased-yellow) ![platform](https://img.shields.io/badge/platform-windows-0078d4)
 
 A desktop IDE for LowArc, a game engine built around small, independently-loadable modules. The Studio is where a project's modules get assembled, its code gets edited, and a dev build gets run and debugged, all in one app.
@@ -20,7 +20,7 @@ Initial release: **v1.0.0 Daedalus**.
 
 [![View LowArc Studio](https://img.shields.io/badge/View-LowArc%20Studio-2ea44f?style=for-the-badge&logo=github)](https://github.com/getlowarc/lowarc-studio)
 
-### <img src="icons/winding.svg" height="22" align="top"> Winding
+### <img src="icons/winding.svg" height="30" align="top"> Winding
 ![status](https://img.shields.io/badge/status-public-2ea44f)
 
 A 3D renderer for the browser, written from scratch on WebGPU. No dependencies, no build step.
