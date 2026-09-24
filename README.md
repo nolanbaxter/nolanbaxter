@@ -22,6 +22,7 @@ Initial release: **v1.0.0 Daedalus**.
 
 ### <img src="icons/winding.svg" height="30" align="top"> Winding
 ![status](https://img.shields.io/badge/status-public-2ea44f)
+[![npm](https://img.shields.io/npm/v/winding-engine?color=%23cb3837&label=winding-engine)](https://www.npmjs.com/package/winding-engine)
 
 A 3D renderer for the browser, written from scratch on WebGPU. No dependencies, no build step.
 
