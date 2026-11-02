@@ -30,7 +30,7 @@ I wanted to find out what actually goes into a modern renderer instead of readin
 
 It is a renderer, not a game engine — no input, audio, or physics. Plenty is still missing, and the README says exactly what.
 
-[![View Winding](https://img.shields.io/badge/View-Winding-2ea44f?style=for-the-badge&logo=github)](https://github.com/nolanbaxter/winding)
+[![View Winding](https://img.shields.io/badge/View-Winding-2ea44f?style=for-the-badge&logo=github)](https://github.com/getlowarc/winding)
 
 ## Repo Lists
 Every collection I create will be accessible here.
